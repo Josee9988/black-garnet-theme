@@ -1,6 +1,13 @@
 # Change Log
 
-## [0.6.0] - 2019-07-07
+## [0.7.2] - 2019-07-07
+
+### Added
+
+- Some information to package.json
+- Added changelog link into the readme.md file
+
+## [0.7.0] - 2019-07-07
 
 ### Changed
 

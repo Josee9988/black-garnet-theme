@@ -2,7 +2,8 @@
     "name": "black-garnet-theme",
     "displayName": "Black Garnet Theme",
     "description": "Cool and colorful dark theme for VSCode",
-    "version": "0.7.1",
+    "version": "0.7.2",
+    "license": "SEE LICENSE IN LICENSE",
     "publisher": "josee9988",
     "engines": {
         "vscode": "^1.36.0"
@@ -10,11 +11,20 @@
     "categories": [
         "Themes"
     ],
+    "bugs": {
+        "url": "https://github.com/Josee9988/black-garnet-theme/issues",
+        "email": "jgracia9988@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Josee9988/black-garnet-theme.git"
+    },
     "contributes": {
         "themes": [{
             "label": "Black Garnet",
             "uiTheme": "vs-dark",
             "path": "./themes/Black Garnet-color-theme.json"
         }]
-    }
+    },
+    "homepage": "https://github.com/Josee9988/black-garnet-theme"
 }

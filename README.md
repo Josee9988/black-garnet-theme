@@ -4,6 +4,8 @@ Cool and colorful dark theme for VSCode, created by a VSCode fan.
 
 For more information check the **[GitHub repository](https://github.com/Josee9988/black-garnet-theme)**
 
+Check our *[changelog](CHANGELOG.md)*
+
 ---
 
 ## **How does it looks with real code?** 📸
