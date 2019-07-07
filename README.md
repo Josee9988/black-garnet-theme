@@ -11,7 +11,7 @@ Or contact **[me](jgracia9988@gmail.com)**
 
 Check our **[changelog](CHANGELOG.md)**
 
-<img src="icon.png" alt="bash" title="bash code" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;" />
+<img src="https://i.imgur.com/i4DykBO.png" alt="bash" title="bash code" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;" />
 
 ---
 

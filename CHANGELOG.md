@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.7.4] - 2019-07-07
+
+### Changed
+
+- Source from an img must come from a http request
+
 ## [0.7.3] - 2019-07-07
 
 ### Added
