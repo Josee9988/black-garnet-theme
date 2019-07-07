@@ -39,7 +39,11 @@ PHP
 
 Python
 
-<img src="https://i.imgur.com/vzqLu0v.pngg" alt="python" title="python" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/vzqLu0v.png" alt="python" title="python" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+
+JSON
+
+<img src="https://i.imgur.com/7qWRWVb.png" alt="json" title="json" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 ---
 

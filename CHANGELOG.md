@@ -1,5 +1,20 @@
 # Change Log
 
+## [0.7.5] - 2019-07-07
+
+### Added
+
+- Json img in the readme.md file
+
+### Changed
+
+- Json key level colors to make them more differentiative from each other
+- Json name color to a light blue
+
+### Removed
+
+- Duplicated elements
+
 ## [0.7.4] - 2019-07-07
 
 ### Changed

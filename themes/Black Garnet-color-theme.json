@@ -35,6 +35,7 @@
 				"storage.modifier.package.java",
 				"source.python",
 				"support.type.property-name.css",
+				"variable.parameter.function.language.python",
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -64,8 +65,6 @@
 		{
 			"name": "Keyword, Storage",
 			"scope": [
-				"keyword",
-				//"storage.type",
 				"storage.modifier"
 			],
 			"settings": {
@@ -93,11 +92,9 @@
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
 			],
 			"settings": {
 				"foreground": "#cac3c3ff"
@@ -109,7 +106,6 @@
 				"entity.name.tag",
 				"meta.tag.sgml",
 				"markup.deleted.git_gutter",
-				"support.constant.property-value.css",
 				"support.constant.property-value.css",
 			],
 			"settings": {
@@ -198,7 +194,7 @@
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
-				"support.type.sys-types"
+				"support.type.sys-types",
 			],
 			"settings": {
 				"foreground": "#ffe7b9"
@@ -207,7 +203,7 @@
 		{
 			"name": "Entity Types",
 			"scope": [
-				"support.type"
+				"support.type",
 			],
 			"settings": {
 				"foreground": "#B2CCD6"
@@ -273,7 +269,8 @@
 		{
 			"name": "Attributes",
 			"scope": [
-				"entity.other.attribute-name"
+				"entity.other.attribute-name",
+				"support.type.property-name.json.comments",
 			],
 			"settings": {
 				"foreground": "#2995c0"
@@ -393,7 +390,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#cac3c3"
+				"foreground": "#FF33CC",
 			}
 		},
 		{
@@ -402,7 +399,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#d16720",
 			}
 		},
 		{
@@ -411,7 +408,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#5c8af0",
 			}
 		},
 		{
@@ -420,7 +417,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#FFCB6B",
 			}
 		},
 		{
@@ -429,7 +426,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C17E70"
+				"foreground": "#0aa893"
 			}
 		},
 		{
@@ -438,7 +435,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#df123f",
 			}
 		},
 		{
@@ -447,7 +444,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#899ec2"
 			}
 		},
 		{
@@ -456,7 +453,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#899ec2",
 			}
 		},
 		{
@@ -465,7 +462,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#FFFFFF",
 			}
 		},
 		{
@@ -667,8 +664,6 @@
 		{
 			"name": "String quotes",
 			"scope": [
-				"meta.attribute.rel.html",
-				"meta.tag.metadata.link.void.html",
 				"text.html.derivative",
 				"meta.attribute.class.html",
 				"string.quoted.double.html",
@@ -682,18 +677,13 @@
 			"name": "Punctuations...",
 			"scope": [
 				"punctuation.separator.key-value.html",
-				"meta.attribute.rel.html",
 				"meta.tag.metadata.link.void.html",
-				"text.html.derivative",
 				"punctuation.definition.tag.begin.html",
 				"meta.tag.metadata.meta.void.html",
-				"text.html.derivative",
 				"punctuation.definition.tag.end.html",
 				"meta.tag.metadata.script.end.html",
 				"meta.embedded.block.html",
-				"text.html.derivative",
 				"punctuation.definition.string.end.html",
-				"text.html.derivative",
 				"punctuation.separator.dictionary.pair.json.comments",
 				"meta.structure.dictionary.json.comments",
 				"meta.structure.array.json.comments",
@@ -702,8 +692,6 @@
 				"meta.structure.dictionary.value.json.comments",
 				"punctuation.support.type.property-name.begin.json.comments",
 				"punctuation.support.type.property-name.end.json.comments",
-				"support.type.property-name.json.comments",
-				"meta.structure.array.json.comments",
 				"punctuation.separator.array.json.comments",
 				"source.json.comments",
 				"punctuation.definition.string.end.json.comments",
@@ -736,7 +724,6 @@
 			"name": "HTML tags",
 			"scope": [
 				"entity.name.tag.html",
-				"meta.tag.metadata.link.void.html",
 				"keyword.control.conditional.js",
 				"meta.function.js",
 				"source.js",
