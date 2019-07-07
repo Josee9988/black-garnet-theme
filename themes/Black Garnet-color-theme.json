@@ -543,7 +543,8 @@
 		{
 			"name": "Markup - Underline",
 			"scope": [
-				"markup.underline"
+				"markup.underline",
+				"markup.inline.raw.string.markdown",
 			],
 			"settings": {
 				"fontStyle": "underline",

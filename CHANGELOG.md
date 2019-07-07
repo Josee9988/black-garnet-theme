@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.7.6] - 2019-07-07
+
+### Changed
+
+- Markdown raw paste changed color to orange
+- Readme organization
+
 ## [0.7.5] - 2019-07-07
 
 ### Added
