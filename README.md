@@ -4,7 +4,14 @@ Cool and colorful dark theme for VSCode, created by a VSCode fan.
 
 For more information check the **[GitHub repository](https://github.com/Josee9988/black-garnet-theme)**
 
-Check our *[changelog](CHANGELOG.md)*
+Want to help us improve the theme or you found a mistake?
+**[Let us know](https://github.com/Josee9988/black-garnet-theme/issues)**
+
+Or contact **[me](jgracia9988@gmail.com)**
+
+Check our **[changelog](CHANGELOG.md)**
+
+<img src="icon.png" alt="bash" title="bash code" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;" />
 
 ---
 
@@ -12,27 +19,27 @@ Check our *[changelog](CHANGELOG.md)*
 
 Bash code
 
-<img src="https://i.imgur.com/Y07J7c3.png" alt="bash" title="bash code" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px" />
+<img src="https://i.imgur.com/Y07J7c3.png" alt="bash" title="bash code" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 Html with css
 
-<img src="https://i.imgur.com/3FvSc7H.png" alt="html" title="htmlcss" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725p" />
+<img src="https://i.imgur.com/3FvSc7H.png" alt="html" title="htmlcss" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 Java
 
-<img src="https://i.imgur.com/CkOERyz.png" alt="java" title="java" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725p" />
+<img src="https://i.imgur.com/CkOERyz.png" alt="java" title="java" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 Markdown
 
-<img src="https://i.imgur.com/ZNFJgHD.png" alt="markdown" title="markdown" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725p" />
+<img src="https://i.imgur.com/ZNFJgHD.png" alt="markdown" title="markdown" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 PHP
 
-<img src="https://i.imgur.com/LpwUmYZ.png" alt="php" title="php" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725p" />
+<img src="https://i.imgur.com/LpwUmYZ.png" alt="php" title="php" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 Python
 
-<img src="https://i.imgur.com/vzqLu0v.pngg" alt="python" title="python" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725p" />
+<img src="https://i.imgur.com/vzqLu0v.pngg" alt="python" title="python" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 ---
 
@@ -44,7 +51,12 @@ Python
 - Open the command Palette of VSCode with *Ctrl+Shift+P* or *⇧⌘P*
 - Search for "*Preferences: Color Theme*"
 - Select **Black Garnet**
-- Enjoy
+
+Or
+
+- Open the command Palette of VSCode with *Ctrl+P* or *⇧⌘P*
+- And type:
+```ext install josee9988.black-garnet-theme```
 
 ---
 

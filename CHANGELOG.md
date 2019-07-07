@@ -1,5 +1,15 @@
 # Change Log
 
+## [0.7.3] - 2019-07-07
+
+### Added
+
+- A fancy icon
+- Added the icon in the readme.md file
+- Info links at readme
+
+## [RELEASED] - 2019-07-07
+
 ## [0.7.2] - 2019-07-07
 
 ### Added
