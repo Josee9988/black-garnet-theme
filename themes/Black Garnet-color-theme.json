@@ -8,7 +8,10 @@
 		"activityBarBadge.background": "#5CABFF",
 		"sideBarTitle.foreground": "#f3b27d",
 		"activityBar.foreground": "#ffffff",
-		"editor.selectionBackground": "#4a595c88"
+		"editor.selectionBackground": "#4a595c88",
+		"statusBar.background": "#8a3434",
+		"statusBar.noFolderBackground": "#212121",
+		"statusBar.debuggingBackground": "#263238"
 	},
 	"tokenColors": [{
 			"name": "Comment",
@@ -74,6 +77,8 @@
 			"scope": [
 				"keyword",
 				"storage.type",
+				"punctuation.definition.variable.php",
+				"meta.separator.markdown",
 			],
 			"settings": {
 				"foreground": "#2995c0"
@@ -662,11 +667,12 @@
 		{
 			"name": "String quotes",
 			"scope": [
-				"punctuation.definition.string.begin.html",
-				"string.quoted.double.html",
 				"meta.attribute.rel.html",
 				"meta.tag.metadata.link.void.html",
 				"text.html.derivative",
+				"meta.attribute.class.html",
+				"string.quoted.double.html",
+
 			],
 			"settings": {
 				"foreground": "#05ad97ff"
@@ -708,6 +714,7 @@
 				"meta.class.body.java",
 				"source.java",
 				"punctuation.definition.string.begin.java",
+				"punctuation.definition.string.begin.html",
 				"punctuation.definition.string.end.java",
 			],
 			"settings": {
