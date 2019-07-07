@@ -2,7 +2,8 @@
     "name": "black-garnet-theme",
     "displayName": "Black Garnet Theme",
     "description": "Cool and colorful dark theme for VSCode",
-    "version": "0.7.0",
+    "version": "0.7.1",
+    "publisher": "josee9988",
     "engines": {
         "vscode": "^1.36.0"
     },
