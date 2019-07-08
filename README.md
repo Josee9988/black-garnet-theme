@@ -1,6 +1,6 @@
 # **Black Garnet Theme for VSCode**
 
-Cool and colorful dark theme for VSCode, created by a VSCode fan.
+Cool and colorful dark theme for VSCode, created by a VSCode fan from scratch.
 
 For more information check our: **[GitHub repository](https://github.com/Josee9988/black-garnet-theme)** and **[VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)**.
 
@@ -16,7 +16,7 @@ Check our **[changelog](CHANGELOG.md)**.
 ## **Installation** 🔩⚙️
 
 - Open the command Palette of VSCode with *Ctrl+P* or *⌘P*
-- And type:
+- And type:➡️
 **```ext install josee9988.black-garnet-theme```**
 
 ---
@@ -25,7 +25,7 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-## **How does it looks with real code?** 📸
+## **How does it looks with real code?** 📸 😁
 
 ### Html with css
 
@@ -62,6 +62,19 @@ Check our **[changelog](CHANGELOG.md)**.
 - [Virtual Studio Code](https://code.visualstudio.com/)
 - [Yo code](https://code.visualstudio.com/api/get-started/your-first-extension)
 - [vsce](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
+---
+
+## Languages primarily tested 🧪🔥
+
+- JSON
+- Markdown
+- Python
+- Java
+- HTML
+- CSS
+- PHP
+- Bash
 
 ---
 

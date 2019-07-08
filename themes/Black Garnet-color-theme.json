@@ -5,13 +5,19 @@
 	"colors": {
 		"editor.background": "#1c1c1c",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#5CABFF",
+		"activityBarBadge.background": "#ce2851",
 		"sideBarTitle.foreground": "#f3b27d",
 		"activityBar.foreground": "#ffffff",
 		"editor.selectionBackground": "#4a595c88",
-		"statusBar.background": "#8a3434",
+		"statusBar.background": "#b13232b2",
 		"statusBar.noFolderBackground": "#212121",
-		"statusBar.debuggingBackground": "#263238"
+		"statusBar.debuggingBackground": "#263238",
+		"progressBar.background": "#ce2851",
+		"gitDecoration.modifiedResourceForeground": "#fc6210cb",
+		"gitDecoration.addedResourceForeground": "#11cfb6e1",
+		"gitDecoration.untrackedResourceForeground": "#08c5ace3",
+		"gitDecoration.ignoredResourceForeground": "#b2b9be79",
+		"gitDecoration.deletedResourceForeground": "#ce2851e8",
 	},
 	"tokenColors": [{
 			"name": "Comment",
@@ -33,12 +39,22 @@
 				"keyword.other.documentation.javadoc.java",
 				"storage.modifier.import.java",
 				"storage.modifier.package.java",
-				"source.python",
 				"support.type.property-name.css",
 				"variable.parameter.function.language.python",
+				"meta.function-call.arguments.python",
+				"entity.name.function.decorator.python",
 			],
 			"settings": {
 				"fontStyle": "italic",
+				"foreground": "#f3b27d"
+			}
+		},
+		{
+			"name": "Variables not italic",
+			"scope": [
+				"source.python",
+			],
+			"settings": {
 				"foreground": "#f3b27d"
 			}
 		},
@@ -65,7 +81,8 @@
 		{
 			"name": "Keyword, Storage",
 			"scope": [
-				"storage.modifier"
+				"storage.modifier",
+				"punctuation.definition.decorator.python",
 			],
 			"settings": {
 				"foreground": "#FF5370"

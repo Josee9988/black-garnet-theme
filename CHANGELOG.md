@@ -1,4 +1,21 @@
+<!-- markdownlint-disable MD024-->
 # Change Log
+
+## [0.8.0] - 2019-07-08
+
+### Added
+
+- Git colors, for modified, added, ignored, untracked and deleted resources
+- Package.json Added color of display in vsmarketplace + tags
+- Decorator @ in python now displays in red.
+- Decorator function (call) displays in orange
+- Readme most tested languages
+
+### Changed
+
+- Python arrays were italic, not they are not
+- Python function that has a parámeter showing equal if it is declared or called.
+- Status bar badges turnet into red
 
 ## [0.7.6] - 2019-07-07
 
