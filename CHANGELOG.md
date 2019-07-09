@@ -1,5 +1,18 @@
 <!-- markdownlint-disable MD024-->
-# Change Log
+# **Change Log**
+
+## [0.8.2] - 2019-07-09
+
+### Added
+
+- ShellScript demo and picture in the readme.md file
+- Badges of follow, star, fork and badge!
+- Commits per last month badge
+
+### Changed
+
+- Badges style
+- Changed git name from readme.md file to files, because it also showed error in code and that does not come from git at all.
 
 ## [0.8.1] - 2019-07-09
 

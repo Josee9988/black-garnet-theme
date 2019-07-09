@@ -13,9 +13,10 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/josee9988.black-garnet-theme.svg)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/josee9988.black-garnet-theme.svg)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/josee9988.black-garnet-theme.svg)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/josee9988.black-garnet-theme.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/josee9988.black-garnet-theme.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/josee9988.black-garnet-theme.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Josee9988/black-garnet-theme.svg?style=popout-square)
 
 ---
 
@@ -33,7 +34,7 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ## **How does it looks with real code?** 📸 😁
 
-### **Git**
+### **Files**
 
 - *Yellow* for code mistake
 - *Green* for new files added
@@ -61,6 +62,10 @@ Check our **[changelog](CHANGELOG.md)**.
 ### **Markdown**
 
 <img src="https://i.imgur.com/iCYIBEk.png" alt="markdown" title="markdown" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+
+### **ShellScript**
+
+<img src="https://i.imgur.com/yvoP10r.png" alt="markdown" title="markdown" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 ### **PHP**
 
@@ -94,7 +99,16 @@ Check our **[changelog](CHANGELOG.md)**.
 - CSS
 - JavaScript
 - PHP
-- Bash
+- ShellScript
+
+---
+
+Did you enjoyed the theme? Click these badges and never miss newer versions!
+
+![GitHub followers](https://img.shields.io/github/followers/Josee9988.svg?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Josee9988/black-garnet-theme.svg?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Josee9988/black-garnet-theme.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Josee9988/black-garnet-theme.svg?style=social)
 
 ---
 
