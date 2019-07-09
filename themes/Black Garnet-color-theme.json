@@ -1,5 +1,5 @@
-// Theme created by https://github.com/Josee9988
 {
+	// Theme created by https://github.com/Josee9988
 	"name": "Black Garnet",
 	"type": "dark",
 	"colors": {
@@ -13,11 +13,12 @@
 		"statusBar.noFolderBackground": "#212121",
 		"statusBar.debuggingBackground": "#263238",
 		"progressBar.background": "#ce2851",
-		"gitDecoration.modifiedResourceForeground": "#fc6210cb",
+		"gitDecoration.modifiedResourceForeground": "#ff7b00",
 		"gitDecoration.addedResourceForeground": "#11cfb6e1",
 		"gitDecoration.untrackedResourceForeground": "#08c5ace3",
 		"gitDecoration.ignoredResourceForeground": "#b2b9be79",
 		"gitDecoration.deletedResourceForeground": "#ce2851e8",
+
 	},
 	"tokenColors": [{
 			"name": "Comment",
@@ -202,6 +203,7 @@
 			}
 		},
 		{
+
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
@@ -288,6 +290,7 @@
 			"scope": [
 				"entity.other.attribute-name",
 				"support.type.property-name.json.comments",
+				"support.type.property-name.json",
 			],
 			"settings": {
 				"foreground": "#2995c0"
@@ -407,7 +410,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF33CC",
+				"foreground": "#2995c0",
 			}
 		},
 		{
@@ -416,7 +419,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#d16720",
+				"foreground": "#ff9853",
 			}
 		},
 		{
@@ -425,7 +428,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#5c8af0",
+				"foreground": "#FF33CC",
 			}
 		},
 		{
@@ -461,7 +464,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#899ec2"
+				"foreground": "#94a9ce"
 			}
 		},
 		{
@@ -470,7 +473,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#899ec2",
+				"foreground": "#1d6ed8",
 			}
 		},
 		{
@@ -654,7 +657,8 @@
 		{
 			"name": "Markdown - Fenced Language",
 			"scope": [
-				"variable.language.fenced.markdown"
+				"variable.language.fenced.markdown",
+				"markup.fenced_code.block.markdown",
 			],
 			"settings": {
 				"foreground": "#65737E"
@@ -722,6 +726,7 @@
 				"punctuation.definition.string.begin.java",
 				"punctuation.definition.string.begin.html",
 				"punctuation.definition.string.end.java",
+				"text.html.derivative",
 			],
 			"settings": {
 				"foreground": "#cac3c3ff"

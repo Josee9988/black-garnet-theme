@@ -1,6 +1,26 @@
 <!-- markdownlint-disable MD024-->
 # Change Log
 
+## [0.8.1] - 2019-07-09
+
+### Added
+
+- Git image in readme.
+- Readme Visual studio marketplace badges
+- demos folder with code demo of 8 languages so the user can test how the theme looks in different languages
+- Color for embedded code for markdown
+
+### Changed
+
+- Color of Git modified resource
+- Images of how the theme looks in readme.md
+- JSON bug in color name.
+- JSON subkeys color consistency
+
+### Removed
+
+- Bash from readme image as I don't have yet a bash demo and don't find it extremelly relevant yet, will be added in next versions.
+
 ## [0.8.0] - 2019-07-08
 
 ### Added

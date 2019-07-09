@@ -13,6 +13,12 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/josee9988.black-garnet-theme.svg)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/josee9988.black-garnet-theme.svg)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/josee9988.black-garnet-theme.svg)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
+
+---
+
 ## **Installation** 🔩⚙️
 
 - Open the command Palette of VSCode with *Ctrl+P* or *⌘P*
@@ -21,39 +27,52 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-<img src="https://i.imgur.com/i4DykBO.png" alt="bash" title="bash code" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;" />
+<img src="https://i.imgur.com/i4DykBO.png" alt="bash" title="bash code" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;" />
 
 ---
 
 ## **How does it looks with real code?** 📸 😁
 
-### Html with css
+### **Git**
 
-<img src="https://i.imgur.com/3FvSc7H.png" alt="html" title="htmlcss" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+- *Yellow* for code mistake
+- *Green* for new files added
+- *Orange* for modified files
+- *Gray* for files ignored
 
-### Java
+<img src="https://i.imgur.com/CFo1y65.png" alt="git" title="git" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
-<img src="https://i.imgur.com/CkOERyz.png" alt="java" title="java" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+### **Html**
 
-### Markdown
+<img src="https://i.imgur.com/uHZD4yq.png" alt="html" title="htmlcss" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
-<img src="https://i.imgur.com/ZNFJgHD.png" alt="markdown" title="markdown" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+### **CSS**
 
-### PHP
+<img src="https://i.imgur.com/DnO7XEa.png" alt="css" title="css" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
-<img src="https://i.imgur.com/LpwUmYZ.png" alt="php" title="php" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+### **JavaScript**
 
-### Python
+<img src="https://i.imgur.com/lnQn0ud.png" alt="javascript" title="javascript" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
-<img src="https://i.imgur.com/vzqLu0v.png" alt="python" title="python" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+### **Java**
 
-### Bash code
+<img src="https://i.imgur.com/E83QQO4.png" alt="java" title="java" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
-<img src="https://i.imgur.com/Y07J7c3.png" alt="bash" title="bash code" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+### **Markdown**
 
-### JSON
+<img src="https://i.imgur.com/iCYIBEk.png" alt="markdown" title="markdown" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
-<img src="https://i.imgur.com/7qWRWVb.png" alt="json" title="json" style="border-radius:15px;  box-shadow: 5px 5px #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+### **PHP**
+
+<img src="https://i.imgur.com/OWSXhiT.png" alt="php" title="php" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+
+### **Python**
+
+<img src="https://i.imgur.com/dRm4Mvq.png" alt="python" title="python" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+
+### **JSON**
+
+<img src="https://i.imgur.com/eR5vyWl.png" alt="json" title="json" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 ---
 
@@ -73,6 +92,7 @@ Check our **[changelog](CHANGELOG.md)**.
 - Java
 - HTML
 - CSS
+- JavaScript
 - PHP
 - Bash
 

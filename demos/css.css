@@ -1,0 +1,13 @@
+* {
+    color: blue;
+    margin-left: 50px;
+    font-family: "Fira Code", Arial;
+}
+
+.myclass {
+    text-align: left;
+}
+
+#myId {
+    display: block;
+}
