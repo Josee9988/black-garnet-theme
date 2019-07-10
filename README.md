@@ -16,7 +16,7 @@ Check our **[changelog](CHANGELOG.md)**.
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/josee9988.black-garnet-theme.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/josee9988.black-garnet-theme.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/josee9988.black-garnet-theme.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Josee9988/black-garnet-theme.svg?style=popout-square)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Josee9988/black-garnet-theme.svg?style=popout-square)](#black-garnet-theme-for-vscode)
 
 ---
 
@@ -103,12 +103,12 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-Did you enjoyed the theme? Click these badges and never miss newer versions!
+Did you enjoyed the theme? Help us raise these numbers up!
 
-![GitHub followers](https://img.shields.io/github/followers/Josee9988.svg?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Josee9988/black-garnet-theme.svg?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Josee9988/black-garnet-theme.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Josee9988/black-garnet-theme.svg?style=social)
+[![Github followers](https://img.shields.io/github/followers/Josee9988.svg?style=social)](#languages-primarily-tested)
+[![Github stars](https://img.shields.io/github/stars/Josee9988/black-garnet-theme.svg?style=social)](#languages-primarily-tested)
+[![Github watchers](https://img.shields.io/github/watchers/Josee9988/black-garnet-theme.svg?style=social)](#languages-primarily-tested)
+[![Github forks](https://img.shields.io/github/forks/Josee9988/black-garnet-theme.svg?style=social)](#languages-primarily-tested)
 
 ---
 
