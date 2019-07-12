@@ -1,6 +1,18 @@
 <!-- markdownlint-disable MD024-->
 # **Change Log**
 
+## [0.8.3] - 2019-07-09
+
+### Added
+
+- Compressed png (but don't removing the original)
+
+### Changed
+
+- Icon ong is now compressed in readme.md (the rest were compressed) which is compressed by 65%
+- The theme will not use the compressed version of the original icon.
+- Titles and alt in readme.md
+
 ## [0.8.2] - 2019-07-09
 
 ### Added

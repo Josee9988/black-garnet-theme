@@ -28,7 +28,7 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-<img src="https://i.imgur.com/i4DykBO.png" alt="bash" title="bash code" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;" />
+<img src="https://i.imgur.com/2QFMzU3.png" alt="logo" title="logo" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;" />
 
 ---
 
@@ -41,7 +41,7 @@ Check our **[changelog](CHANGELOG.md)**.
 - *Orange* for modified files
 - *Gray* for files ignored
 
-<img src="https://i.imgur.com/CFo1y65.png" alt="git" title="git" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/CFo1y65.png" alt="files" title="files" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
 
 ### **Html**
 
