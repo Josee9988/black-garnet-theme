@@ -8,7 +8,7 @@
 		"activityBarBadge.background": "#ce2851",
 		"sideBarTitle.foreground": "#f3b27d",
 		"activityBar.foreground": "#ffffff",
-		"editor.selectionBackground": "#4a595c88",
+		"editor.selectionBackground": "#45b6cf88",
 		"statusBar.background": "#b13232b2",
 		"statusBar.noFolderBackground": "#212121",
 		"statusBar.debuggingBackground": "#263238",
@@ -455,7 +455,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#df123f",
+				"foreground": "#e26c35",
 			}
 		},
 		{

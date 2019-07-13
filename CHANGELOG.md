@@ -1,6 +1,17 @@
 <!-- markdownlint-disable MD024-->
 # **Change Log**
 
+## [0.8.4] - 2019-07-13
+
+### Changed
+
+- Color of selection to a more darker version because the original was too transparent.
+- JSON lvl 5 bracket was red and seemed like there was an error; now is orange.
+
+### Added
+
+- More tags(keywords) in package.json
+
 ## [0.8.3] - 2019-07-09
 
 ### Added
