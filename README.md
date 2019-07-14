@@ -28,7 +28,7 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-<img src="https://i.imgur.com/2QFMzU3.png" alt="logo" title="logo" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
+<img src="https://i.imgur.com/2QFMzU3.png" alt="logo" title="logo" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%"/>
 
 ---
 
@@ -41,43 +41,43 @@ Check our **[changelog](CHANGELOG.md)**.
 - *Orange* for modified files
 - *Gray* for files ignored
 
-<img src="https://i.imgur.com/CFo1y65.png" alt="files" title="files" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/CFo1y65.png" alt="files" title="files" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **Html**
 
-<img src="https://i.imgur.com/uHZD4yq.png" alt="html" title="htmlcss" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/uHZD4yq.png" alt="html" title="htmlcss" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **CSS**
 
-<img src="https://i.imgur.com/DnO7XEa.png" alt="css" title="css" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/DnO7XEa.png" alt="css" title="css" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **JavaScript**
 
-<img src="https://i.imgur.com/lnQn0ud.png" alt="javascript" title="javascript" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/lnQn0ud.png" alt="javascript" title="javascript" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **Java**
 
-<img src="https://i.imgur.com/E83QQO4.png" alt="java" title="java" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/E83QQO4.png" alt="java" title="java" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **Markdown**
 
-<img src="https://i.imgur.com/iCYIBEk.png" alt="markdown" title="markdown" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/iCYIBEk.png" alt="markdown" title="markdown" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **ShellScript**
 
-<img src="https://i.imgur.com/yvoP10r.png" alt="markdown" title="markdown" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/yvoP10r.png" alt="markdown" title="markdown" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **PHP**
 
-<img src="https://i.imgur.com/OWSXhiT.png" alt="php" title="php" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/OWSXhiT.png" alt="php" title="php" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **Python**
 
-<img src="https://i.imgur.com/dRm4Mvq.png" alt="python" title="python" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/dRm4Mvq.png" alt="python" title="python" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **JSON**
 
-<img src="https://i.imgur.com/eR5vyWl.png" alt="json" title="json" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;"/>
+<img src="https://i.imgur.com/eR5vyWl.png" alt="json" title="json" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ---
 
