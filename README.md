@@ -28,7 +28,7 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-<img src="https://i.imgur.com/2QFMzU3.png" alt="logo" title="logo" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;" />
+<img src="https://i.imgur.com/2QFMzU3.png" alt="logo" title="logo" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ---
 
