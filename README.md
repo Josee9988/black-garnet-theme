@@ -105,6 +105,7 @@ Check our **[changelog](CHANGELOG.md)**.
 
 Did you enjoyed the theme? Help us raise these numbers up!
 
+[![Donate](https://img.shields.io/badge/Donate-Patreon-green.svg)](https://www.patreon.com/bePatron?u=22162331)
 [![Github followers](https://img.shields.io/github/followers/Josee9988.svg?style=social)](#languages-primarily-tested)
 [![Github stars](https://img.shields.io/github/stars/Josee9988/black-garnet-theme.svg?style=social)](#languages-primarily-tested)
 [![Github watchers](https://img.shields.io/github/watchers/Josee9988/black-garnet-theme.svg?style=social)](#languages-primarily-tested)
