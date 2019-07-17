@@ -1,6 +1,12 @@
 <!-- markdownlint-disable MD024-->
 # **Change Log**
 
+## [0.8.4] - 2019-07-17
+
+### Added
+
+- Regex more readability
+
 ## [0.8.4] - 2019-07-13
 
 ### Changed

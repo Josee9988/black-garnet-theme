@@ -138,6 +138,8 @@
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method",
+				"keyword.operator.or.regexp",
+
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -147,7 +149,7 @@
 		{
 			"name": "Block Level Variables",
 			"scope": [
-				"meta.block variable.other"
+				"meta.block variable.other",
 			],
 			"settings": {
 				"foreground": "#f07178"
@@ -197,6 +199,7 @@
 				"comment.block.javadoc.java",
 				"punctuation.section.embedded.end.php",
 				"punctuation.section.embedded.begin.php",
+				"punctuation.definition.character-class.regexp",
 			],
 			"settings": {
 				"foreground": "#0aa893"
@@ -301,6 +304,7 @@
 			"scope": [
 				"text.html.basic entity.other.attribute-name.html",
 				"text.html.basic entity.other.attribute-name",
+				"constant.character.escape.backslash.regexp",
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -329,7 +333,7 @@
 		{
 			"name": "Inserted",
 			"scope": [
-				"markup.inserted"
+				"markup.inserted",
 			],
 			"settings": {
 				"foreground": "#C3E88D"
@@ -356,10 +360,13 @@
 		{
 			"name": "Regular Expressions",
 			"scope": [
-				"string.regexp"
+				"string.regexp",
+				"keyword.operator.or.regexp",
+				"keyword.operator.quantifier.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"fontStyle": "bold",
+				"foreground": "#2288b1"
 			}
 		},
 		{
@@ -434,7 +441,7 @@
 		{
 			"name": "JSON Key - Level 3",
 			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
 			],
 			"settings": {
 				"foreground": "#FFCB6B",
@@ -689,7 +696,6 @@
 				"text.html.derivative",
 				"meta.attribute.class.html",
 				"string.quoted.double.html",
-
 			],
 			"settings": {
 				"foreground": "#05ad97ff"
