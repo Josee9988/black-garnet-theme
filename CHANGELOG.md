@@ -1,7 +1,25 @@
 <!-- markdownlint-disable MD024-->
 # **Change Log**
 
-## [0.8.4] - 2019-07-17
+All notable changes to the "**Black Garnet Theme**" extension will be documented in this file.
+
+## [0.8.6] - 2019-07-28
+
+### Added
+
+- A minified file with the theme so the load will be a little bit faster! Minified using my extension 'MinifyAll'
+
+### Changed
+
+- Red color in top of the open editors when modified
+- Little color changes
+- Terminal colors red and yellow changed
+
+### Fixed
+
+- Some bad spelled words
+
+## [0.8.5] - 2019-07-17
 
 ### Added
 
@@ -61,14 +79,14 @@
 
 ### Removed
 
-- Bash from readme image as I don't have yet a bash demo and don't find it extremelly relevant yet, will be added in next versions.
+- Bash from readme image as I don't have yet a bash demo and don't find it extremely relevant yet, will be added in next versions.
 
 ## [0.8.0] - 2019-07-08
 
 ### Added
 
 - Git colors, for modified, added, ignored, untracked and deleted resources
-- Package.json Added color of display in vsmarketplace + tags
+- Package.json Added color of display in VSMarketplace + tags
 - Decorator @ in python now displays in red.
 - Decorator function (call) displays in orange
 - Readme most tested languages
@@ -77,7 +95,7 @@
 
 - Python arrays were italic, not they are not
 - Python function that has a parámeter showing equal if it is declared or called.
-- Status bar badges turnet into red
+- Status bar badges turned into red
 
 ## [0.7.6] - 2019-07-07
 
@@ -94,7 +112,7 @@
 
 ### Changed
 
-- Json key level colors to make them more differentiative from each other
+- Json key level colors to make them more different from each other
 - Json name color to a light blue
 
 ### Removed
@@ -130,12 +148,12 @@
 
 - Somme html quotes issues
 - Improved readme
-- Consistency throughtout other languages
+- Consistency throughout other languages
 
 ### Added
 
 - Images to readme and much more information in the readme.
-- Instalation mini guide
+- Installation mini guide
 - Build with
 
 ## [0.5.0] - 2019-07-05

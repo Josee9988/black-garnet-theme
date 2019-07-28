@@ -18,7 +18,15 @@
 		"gitDecoration.untrackedResourceForeground": "#08c5ace3",
 		"gitDecoration.ignoredResourceForeground": "#b2b9be79",
 		"gitDecoration.deletedResourceForeground": "#ce2851e8",
-
+		"tab.activeModifiedBorder": "#bb294ee8",
+		"tab.activeBackground": "#1a1c1c",
+		"tab.activeForeground": "#FFF",
+		"tab.inactiveForeground": "#f8f3f380",
+		"terminal.ansiBrightGreen": "#13d688",
+		"terminal.ansiRed": "#b13232b2",
+		"terminal.ansiBrightRed": "#ff3e3e",
+		"terminal.ansiYellow": "#e5e510",
+		"terminal.ansiBrightYellow": "#ffff61",
 	},
 	"tokenColors": [{
 			"name": "Comment",
@@ -206,7 +214,6 @@
 			}
 		},
 		{
-
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",

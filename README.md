@@ -28,10 +28,6 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-<img src="https://i.imgur.com/2QFMzU3.png" alt="logo" title="logo" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%"/>
-
----
-
 ## **How does it looks with real code?** 📸 😁
 
 ### **Files**
@@ -45,7 +41,7 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ### **Html**
 
-<img src="https://i.imgur.com/uHZD4yq.png" alt="html" title="htmlcss" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
+<img src="https://i.imgur.com/uHZD4yq.png" alt="html" title="html css" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%;"/>
 
 ### **CSS**
 
@@ -112,5 +108,7 @@ Did you enjoyed the theme? Help us raise these numbers up!
 [![Github forks](https://img.shields.io/github/forks/Josee9988/black-garnet-theme.svg?style=social)](#languages-primarily-tested)
 
 ---
+
+<img src="https://i.imgur.com/2QFMzU3.png" alt="logo" title="logo" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%"/>
 
 *Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)***
