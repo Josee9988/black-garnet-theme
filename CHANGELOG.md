@@ -3,6 +3,18 @@
 
 All notable changes to the "**Black Garnet Theme**" extension will be documented in this file.
 
+## [1.0.0] - 2019-07-31
+
+- Seems like the extension is mature enough to go up to 1.0.0.
+
+### Added
+
+- package.json more tags
+
+### Fixed
+
+- Spelling mistakes in the readme.md file and in the changelog.md file.
+
 ## [0.8.6] - 2019-07-28
 
 ### Added
@@ -11,13 +23,13 @@ All notable changes to the "**Black Garnet Theme**" extension will be documented
 
 ### Changed
 
-- Red color in top of the open editors when modified
-- Little color changes
-- Terminal colors red and yellow changed
+- The red colour in top of the open editors when modified
+- Little colour changes
+- Terminal colours red and yellow changed
 
 ### Fixed
 
-- Some bad spelled words
+- Some badly spelt words
 
 ## [0.8.5] - 2019-07-17
 
@@ -29,8 +41,8 @@ All notable changes to the "**Black Garnet Theme**" extension will be documented
 
 ### Changed
 
-- Color of selection to a more darker version because the original was too transparent.
-- JSON lvl 5 bracket was red and seemed like there was an error; now is orange.
+- Colour of selection to a more darker version because the original was too transparent.
+- JSON LVL 5 bracket was red and seemed like there was an error; now is orange.
 
 ### Added
 
@@ -40,11 +52,11 @@ All notable changes to the "**Black Garnet Theme**" extension will be documented
 
 ### Added
 
-- Compressed png (but don't removing the original)
+- Compressed png (but don't remove the original)
 
 ### Changed
 
-- Icon ong is now compressed in readme.md (the rest were compressed) which is compressed by 65%
+- Icon image is now compressed in the readme.md (the rest were compressed) which is compressed by 65%
 - The theme will not use the compressed version of the original icon.
 - Titles and alt in readme.md
 
@@ -53,29 +65,29 @@ All notable changes to the "**Black Garnet Theme**" extension will be documented
 ### Added
 
 - ShellScript demo and picture in the readme.md file
-- Badges of follow, star, fork and badge!
+- Badges of following, star, fork and badge!
 - Commits per last month badge
 
 ### Changed
 
 - Badges style
-- Changed git name from readme.md file to files, because it also showed error in code and that does not come from git at all.
+- Changed git name from the readme.md file to files, because it also showed error in code and that does not come from git at all.
 
 ## [0.8.1] - 2019-07-09
 
 ### Added
 
-- Git image in readme.
+- Git image in the readme.
 - Readme Visual studio marketplace badges
 - demos folder with code demo of 8 languages so the user can test how the theme looks in different languages
 - Color for embedded code for markdown
 
 ### Changed
 
-- Color of Git modified resource
+- Colour of Git modified resource
 - Images of how the theme looks in readme.md
-- JSON bug in color name.
-- JSON subkeys color consistency
+- JSON bug in colour name.
+- JSON subkeys colour consistency
 
 ### Removed
 
@@ -85,8 +97,8 @@ All notable changes to the "**Black Garnet Theme**" extension will be documented
 
 ### Added
 
-- Git colors, for modified, added, ignored, untracked and deleted resources
-- Package.json Added color of display in VSMarketplace + tags
+- Git colours, for modified, added, ignored, untracked and deleted resources
+- Package.json Added colour of display in VSMarketplace + tags
 - Decorator @ in python now displays in red.
 - Decorator function (call) displays in orange
 - Readme most tested languages
@@ -101,19 +113,19 @@ All notable changes to the "**Black Garnet Theme**" extension will be documented
 
 ### Changed
 
-- Markdown raw paste changed color to orange
+- Markdown raw paste changed colour to orange
 - Readme organization
 
 ## [0.7.5] - 2019-07-07
 
 ### Added
 
-- Json img in the readme.md file
+- Json image in the readme.md file
 
 ### Changed
 
-- Json key level colors to make them more different from each other
-- Json name color to a light blue
+- Json key level colours to make them more different from each other
+- Json name colour to a light blue
 
 ### Removed
 
@@ -123,7 +135,7 @@ All notable changes to the "**Black Garnet Theme**" extension will be documented
 
 ### Changed
 
-- Source from an img must come from a http request
+- Source from an image must come from a HTTP request
 
 ## [0.7.3] - 2019-07-07
 
@@ -131,7 +143,7 @@ All notable changes to the "**Black Garnet Theme**" extension will be documented
 
 - A fancy icon
 - Added the icon in the readme.md file
-- Info links at readme
+- Info links at the readme
 
 ## [RELEASED] - 2019-07-07
 
@@ -146,7 +158,7 @@ All notable changes to the "**Black Garnet Theme**" extension will be documented
 
 ### Changed
 
-- Somme html quotes issues
+- Somme HTML quotes issues
 - Improved readme
 - Consistency throughout other languages
 
