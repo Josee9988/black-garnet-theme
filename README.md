@@ -107,8 +107,10 @@ Did you enjoy the theme? Help us raise these numbers!
 [![Github watchers](https://img.shields.io/github/watchers/Josee9988/black-garnet-theme.svg?style=social)](#languages-primarily-tested)
 [![Github forks](https://img.shields.io/github/forks/Josee9988/black-garnet-theme.svg?style=social)](#languages-primarily-tested)
 
----
+[Check my VSCode Markdown and Changelog snippets](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets) 🌟
 
-<img src="https://i.imgur.com/2QFMzU3.png" alt="logo" title="logo" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 500px; max-width:500px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:50%"/>
+[Check my VSCode minifier](https://marketplace.visualstudio.com/items?itemName=josee9988.minifyall) 🔥
+
+---
 
 *Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)***
