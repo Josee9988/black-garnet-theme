@@ -133,6 +133,9 @@
 				"meta.tag.sgml",
 				"markup.deleted.git_gutter",
 				"support.constant.property-value.css",
+				"meta.property-value.css",
+				"support.constant.color.w3c-standard-color-name.css",
+				"constant.numeric.css",
 			],
 			"settings": {
 				"foreground": "#f07178"
