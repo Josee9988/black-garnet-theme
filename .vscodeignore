@@ -1,4 +1,5 @@
 .vscode/**
-.vscode-test/**
-.gitignore
-demos/
+demos/**
+themes/Black Garnet-color-theme.json
+.github/**
+icon.png
