@@ -1,5 +1,9 @@
+#Full folders ignored.
 .vscode/**
-demos/**
-themes/Black Garnet-color-theme.json
 .github/**
-icon.png
+
+#Root files ignored.
+**/icon.png
+
+#themes ignored.
+themes/Black Garnet-color-theme.json
